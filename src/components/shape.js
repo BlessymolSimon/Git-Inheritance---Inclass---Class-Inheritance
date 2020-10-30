@@ -14,7 +14,7 @@ class Shape {
     constructor() {
         this.color="red";
     }
-    drawshape(){
+    drawShape(){
         console.log("drawing a shape");
     }
     calculateArea() {
